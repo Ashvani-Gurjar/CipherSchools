@@ -1,23 +1,32 @@
 body{
-     background-color: rgb(169, 97, 241) !important;
+     background: #ff7d7d !important;
 }
 button{
-     background-color: rgb(166, 238, 238);
+     background-color: #8eddab;
      border: 2px solid white;
-     border-radius: 15px !important;
-     font-family: 'Courier New', Courier, monospace;
-     font-size: 14px;
-     margin: 6px;
+     border-radius: 5px !important;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 15px !important;
+     margin: 4px !important;
+}
+video{
+         margin: 13px;
 }
 button:hover{
      background-color: rgb(203, 241, 97);
 }
 .navbar{
      background-color: rgba(0, 0, 0, 0.199);
-     color: white;
+     text-align: center !important ;
 }
-.navbar-brand{
-     color: white !important;
+.navbar-brands{
+     color: rgba(255, 255, 255, 0.89) !important;
+     margin-left: 338px ;
+     font-weight: bold;
+     font-size: 23px;
+     text-shadow: 5px 3px 6px black;
+
+    
 }
 .btn{
      color: white !important;

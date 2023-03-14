@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  width: 395px;
+  margin-top: 56px;
+    margin-left: -70px;
 }
 
 .App-logo {
@@ -35,4 +38,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.alli{
+  display: flex;
+  flex-direction: row;
+  margin: 17px;
 }
